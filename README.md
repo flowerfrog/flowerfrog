@@ -3,7 +3,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Telegram: alxosenn](https://img.shields.io/badge/-oddfrog-gray?style=flat-square&logo=Telegram&logoColor=blur&link=https://t.me/oddfrog)](https://t.me/oddfrog)
+[![Telegram: alxosenn](https://img.shields.io/badge/-oddfrog-gray?style=flat-square&logo=Telegram&link=https://t.me/oddfrog)](https://t.me/oddfrog)
 [![Linkedin: alxosenn](https://img.shields.io/badge/-alxosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxosenn/)](https://www.linkedin.com/in/alxosenn/)
 ![GitHub followers](https://img.shields.io/github/followers/flowerfrog?label=Follow&style=social)
 
